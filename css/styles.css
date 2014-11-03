@@ -1,6 +1,10 @@
 /*CSS stands for creating sick stuff*/
 p {
-  color:pink;
+  color: black;
+  font-size: 16px;
+  font-family: Futura;
+  font-weight: 100;
+  text-transform: uppercase
 }
 
 body {
