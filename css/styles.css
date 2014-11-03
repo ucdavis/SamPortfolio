@@ -9,3 +9,8 @@ body {
 	background position: top left;
 	
 }
+
+.jumbotron {
+	height: 400px;
+	background-color: #95dbd2;
+}
