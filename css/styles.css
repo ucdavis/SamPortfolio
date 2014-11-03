@@ -16,9 +16,11 @@ body {
 
 .nav a {
 	color: #000000;
-	font-size: 14px;
+	font-size: 11px;
 	font-weight: 100;
 	font-family: Futura;
+	padding: 14px 10px;
+
 }
 
 .nav li {
@@ -30,6 +32,12 @@ body {
 	background-color: #95dbd2;
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top: 100px;
+  left: 100px;
 }
 
 .jumbotron h1 {
