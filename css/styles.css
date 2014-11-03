@@ -15,12 +15,25 @@ body {
 	font-size: 14px;
 }
 
+.nav li{
+	display: inline;
+}
+
 .jumbotron {
 	height: 400px;
 	background-color: #95dbd2;
 }
 
 .jumbotron h1 {
-	color: #f2f2f2;
-	font-size: 48px;
+	color: #fff;
+	font-size: 100px;
+	font-family: Futura, book;
+}
+
+
+.jumbotron p {
+	color: #fff;
+	font-size: 16px;
+	font-family: Futura, book;
+	text-transform: uppercase; 
 }
