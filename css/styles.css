@@ -17,24 +17,31 @@ body {
 .nav {
 	color: #000000;
 	font-size: 14px;
+	font-family: Futura;
+	padding: 14px 10px;
 }
 
-.nav li{
+.nav li {
 	display: inline;
 }
 
 .jumbotron {
 	height: 400px;
 	background-color: #95dbd2;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
+.jumbotron .container {
+	postion: relative;
+	top: 100px;
+}
 .jumbotron h1 {
 	color: #fff;
 	font-size: 100px;
 	font-family: Futura;
 	font-weight: 300;
 }
-
 
 .jumbotron p {
 	color: #fff;
