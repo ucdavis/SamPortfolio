@@ -10,6 +10,11 @@ body {
 	
 }
 
+.nav a{
+	color: #000000;
+	font-size: 20px;
+}
+
 .jumbotron {
 	height: 400px;
 	background-color: #95dbd2;
