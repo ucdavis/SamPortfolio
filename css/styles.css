@@ -1,8 +1,8 @@
 /*CSS stands for creating sick stuff*/
 p {
   color: black;
-  font-size: 16px;
-  font-family: Futura;
+  font-size: 24px;
+  font-family: Nixie One;
   font-weight: 100;
   text-transform: uppercase;
 }
@@ -15,11 +15,11 @@ body {
 
 .nav a {
 	color: #000000;
-	font-size: 11px;
+	font-size: 14px;
 	font-weight: 100;
 	font-family: Futura;
 	padding: 14px 10px;
-
+	text-transform: uppercase;
 }
 
 .nav li {
@@ -36,7 +36,6 @@ body {
 .jumbotron .container {
   position: relative;
   top: 100px;
-  left: 100px;
 }
 
 .jumbotron h1 {
