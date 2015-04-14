@@ -8,3 +8,8 @@ h2 {
   text-align: center;
 }
 
+p {
+	color: black;
+	font-size: 14px;
+	font-family: Open Sans;
+}
