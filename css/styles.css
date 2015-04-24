@@ -46,7 +46,7 @@ p {
 	text-align: center;
 }
 
-.fa-ul {
+.fa-ul li{
   color: blue;
   display: inline;
   padding-right: 20px;
