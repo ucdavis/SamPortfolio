@@ -47,7 +47,7 @@ p {
 }
 
 .fa-ul li{
-  color: blue;
+  color: #EFEDF0;
   display: inline;
   padding-right: 10%;
   
@@ -58,8 +58,8 @@ p {
 }
 
 #contact {
-  background-color: gray;
-  padding: 1em 1em 2em 1em;
+  background-color: #2A2A2A;
+  padding: 1em;
   background-size: cover;
 }
 
@@ -69,4 +69,5 @@ p {
 
 #contact p {
   font-size: 10pt;
+  padding-top: 40px;
 }
