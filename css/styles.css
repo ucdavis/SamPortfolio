@@ -57,6 +57,7 @@ p {
   text-align: center;
 }
 
-#contact{
+#contact {
   background-color: gray;
+  padding: 1em 1em 2em 1em;
 }
