@@ -60,4 +60,5 @@ p {
 #contact {
   background-color: gray;
   padding: 1em 1em 2em 1em;
+  background-size: cover;
 }
