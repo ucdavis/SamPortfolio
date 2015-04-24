@@ -45,3 +45,8 @@ p {
 	font-family: Open Sans;
 	text-align: center;
 }
+
+.icons {
+  display: inline;
+  padding-right: 20px;
+}
