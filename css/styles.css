@@ -50,7 +50,6 @@ p {
   color: blue;
   display: inline;
   padding-right: 10%;
-  padding-bottom: ;
   
 }
 
@@ -69,5 +68,5 @@ p {
 }
 
 #contact p {
-  font-size: 12pt;
+  font-size: 10pt;
 }
