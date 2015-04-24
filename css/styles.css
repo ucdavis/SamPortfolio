@@ -50,6 +50,9 @@ p {
   color: blue;
   display: inline;
   padding-right: 10%;
-  text-align: center;
   
+}
+
+.fa-ul {
+  text-align: center;
 }
